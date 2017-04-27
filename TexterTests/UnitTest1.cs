@@ -8,8 +8,8 @@ namespace Test_TXT
     [TestClass]
     public class UnitTest1
     {
-        private const string OldFile = @"C:\Users\stuar\OneDrive\VS_Projects\TxtRepairer\Test_TXT\file\sqlDeveloperOutput.txt";
-        private const string NewFile = @"C:\Users\stuar\OneDrive\VS_Projects\TxtRepairer\Test_TXT\file\tester.txt";
+        private const string OldFile = @"C:\test\sqlDeveloperOutput.txt";
+        private const string NewFile = @"C:\test\tester.txt";
 
 
         [TestMethod]
